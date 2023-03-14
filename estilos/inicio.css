@@ -1,0 +1,81 @@
+h1{
+    color: deepskyblue;
+    background-color: yellow;
+    font-family: serif;
+    font-size: 2.5em;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h2{
+    color: darkred;
+    text-align: left;
+    font-family: fantasy;
+    font-size: 2.3em;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: overline;
+}
+.h22{
+    color: darkred;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3em;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: overline;
+}
+.pregunta{
+    color: darkred;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 2.3em;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: overline;
+}
+#imagen1{
+    float:left;
+    display: inline-block;
+    width: 41%;
+    border: dashed;
+    border-style: double;
+    border-color: green;
+    text-align: center;
+    padding: 3px;
+}
+#imagen2{
+    float:right;
+    display: inline-block;
+    width: 35%;
+    border: dashed;
+    border-style: double;
+    border-color: orange;
+    text-align: center;
+    padding: 3px;
+}
+p{
+    text-align: justify-all;
+    font-size: 1.7em;
+}
+.p{
+    text-align: center;
+    font-size: 1.7em;
+}
+.ubicacion{
+    text-align: center;
+    float:center;
+    padding: 20px;
+    margin: 100px;
+    border: dashed;
+    border-style: ridge;
+    border-color: blue;
+}
+.entrada{
+    text-align: center;
+    float:center;
+    padding: 20px;
+    margin: 100px;
+    border: dashed;
+    border-style: ridge;
+    border-color: blue;
+}

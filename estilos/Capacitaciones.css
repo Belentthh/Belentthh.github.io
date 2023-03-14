@@ -1,0 +1,45 @@
+h1{
+    color: deepskyblue;
+    background-color: yellow;
+    text-align: center;
+    font-family: serif;
+    font-size: 3.5em;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h2{
+    color: darkseagreen;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 3em;
+    font-style: normal;
+    font-weight: lighter;
+}
+p{
+    text-align: justify-all;
+    font-size: 1.7em;
+}
+ul{
+    text-align: justify-all;
+    font-size: 1.7em;
+}
+caption{
+    text-align: center;
+    color: blue;
+    font-family:monospace;
+    font-size: 3em;
+    font-style: italic;
+    font-weight: bold;
+}
+th{
+    text-align: center;
+    color:crimson;
+    font-family: sans-serif;
+    font-size: 1.7em;
+    font-style: italic;
+    font-weight: bold;
+}
+td{
+    text-align: justify-all;
+    font-size: 1.7em;
+}
